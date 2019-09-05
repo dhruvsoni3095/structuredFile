@@ -5,6 +5,7 @@ var x=0
     }
     
 console.log('finaly' + i+'x'+x);
-//https://github.com/ritusoni2298/structuredFile.git
+////https://github.com/ritusoni2298/structuredFile.git
+//hello
 }
 dosomething();
